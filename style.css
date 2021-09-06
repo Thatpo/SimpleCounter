@@ -1,0 +1,19 @@
+html{
+    height:100%;
+}
+body{
+    height:100%;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.buttons{
+    display:flex;
+    justify-content:center;
+    width:100%;   
+}
+.reset{
+    margin-right: 20px;
+    margin-left: 20px;
+}
